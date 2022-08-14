@@ -166,3 +166,5 @@ INSERT INTO customer_purchases (
 	1,
 	1
 );
+
+-- this is a comment
